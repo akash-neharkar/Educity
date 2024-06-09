@@ -41,11 +41,11 @@ const Testimonials = () => {
                 <img src={user_1} alt="" />
                 <div>
                   <h3>William Jackson</h3>
-                  <span>Educity, USA</span>
+                  <span>Edusity, USA</span>
                 </div>
               </div>
               <p>
-                "Choosing to pusrsue my degree at Educity was one of the best
+                "Choosing to pusrsue my degree at edusity was one of the best
                 decisions I have ever made. The supportive community,
                 state-of-art facilities, and commitment to academic excellence
                 have truly exceeded my expectations."
@@ -58,11 +58,11 @@ const Testimonials = () => {
                 <img src={user_2} alt="" />
                 <div>
                   <h3>Peter England</h3>
-                  <span>Educity, USA</span>
+                  <span>Edusity, USA</span>
                 </div>
               </div>
               <p>
-                "Choosing to pusrsue my degree at Educity was one of the best
+                "Choosing to pusrsue my degree at edusity was one of the best
                 decisions I have ever made. The supportive community,
                 state-of-art facilities, and commitment to academic excellence
                 have truly exceeded my expectations."
@@ -75,11 +75,11 @@ const Testimonials = () => {
                 <img src={user_3} alt="" />
                 <div>
                   <h3>James Gothen</h3>
-                  <span>Educity, USA</span>
+                  <span>Edusity, USA</span>
                 </div>
               </div>
               <p>
-                "Choosing to pusrsue my degree at Educity was one of the best
+                "Choosing to pusrsue my degree at edusity was one of the best
                 decisions I have ever made. The supportive community,
                 state-of-art facilities, and commitment to academic excellence
                 have truly exceeded my expectations."
@@ -92,11 +92,11 @@ const Testimonials = () => {
                 <img src={user_4} alt="" />
                 <div>
                   <h3>Harry Potter</h3>
-                  <span>Educity, USA</span>
+                  <span>Edusity, USA</span>
                 </div>
               </div>
               <p>
-                "Choosing to pusrsue my degree at Educity was one of the best
+                "Choosing to pusrsue my degree at edusity was one of the best
                 decisions I have ever made. The supportive community,
                 state-of-art facilities, and commitment to academic excellence
                 have truly exceeded my expectations."
